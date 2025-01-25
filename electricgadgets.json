@@ -1,0 +1,210 @@
+[
+    {
+        "filter_id" : 1,
+        "products" : [
+            {
+                "product_id" : 6,
+                "product_name" : "Airpods",
+                "imgSrc" : "gadgets/airpods.jpeg",
+                "price" : 2000
+            },
+            {
+                "product_id" : 7,
+                "product_name" : "Boat airpods",
+                "imgSrc" : "gadgets/airpods2.jpeg",
+                "price" : 1000
+            },
+            {
+                "product_id" : 8,
+                "product_name" : "Canon Camera",
+                "imgSrc" : "gadgets/canon4.jpeg",
+                "price" : 53000
+            },
+            {
+                "product_id" : 9,
+                "product_name" : "Headphones",
+                "imgSrc" : "gadgets/headphones3.jpeg",
+                "price" : 500
+            },
+            {
+                "product_id" : 10,
+                "product_name" : "Joystick controller",
+                "imgSrc" : "gadgets/joystick5.jpeg",
+                "price" : 2500
+            },
+            {
+                "product_id" : 11,
+                "product_name" : "play station 5",
+                "imgSrc" : "gadgets/ps5.jpeg",
+                "price" : 44000
+            }
+        ]
+    },
+    {
+        "filter_id" : 2,
+        "products" : [
+            {
+                "product_id" : 12,
+                "product_name" : "Moto g54",
+                "imgSrc" : "gadgets/moto.jpeg",
+                "price" : 17000
+            },
+            {
+                "product_id" : 13,
+                "product_name" : "Vivo v23",
+                "imgSrc" : "gadgets/vivo.jpeg",
+                "price" : 23000
+            },
+            {
+                "product_id" : 13,
+                "product_name" : "Realme ",
+                "imgSrc" : "gadgets/realme.jpeg",
+                "price" : 15000
+            },
+            {
+                "product_id" : 14,
+                "product_name" : "Oneplus Nord",
+                "imgSrc" : "gadgets/nord.jpeg",
+                "price" : 1900
+            },
+            {
+                "product_id" : 15,
+                "product_name" : "Nothing",
+                "imgSrc" :"gadgets/nothing.jpeg",
+                "price" : 27500
+            },
+            {
+                "product_id" : 16,
+                "product_name" : "Moto g84",
+                "imgSrc" : "gadgets/moto.jpeg",
+                "price" : 18400
+            }
+        ]
+    },
+    {
+        "filter_id" : 3,
+        "products" : [
+            {
+                "product_id" : 17,
+                "product_name" : "Shirt",
+                "imgSrc" : "menswear/costume1.jpeg",
+                "price" : 1700
+            },
+            {
+                "product_id" : 18,
+                "product_name" : "Black shirt",
+                "imgSrc" : "menswear/costume2.jpg",
+                "price" : 1000
+            },
+            {
+                "product_id" : 19,
+                "product_name" : "Pant",
+                "imgSrc" : "menswear/costume3.jpeg",
+                "price" : 2000
+            },
+            {
+                "product_id" : 20,
+                "product_name" : "Trouser",
+                "imgSrc" : "menswear/costume4.jpeg",
+                "price" : 500
+            },
+            {
+                "product_id" : 21,
+                "product_name" : "Hoodie",
+                "imgSrc" :"menswear/costume5.jpeg",
+                "price" : 1000
+            },
+            {
+                "product_id" : 22,
+                "product_name" : "Cap",
+                "imgSrc" : "menswear/costume6.jpg",
+                "price" : 50
+            }
+        ]
+    },
+    {
+        "filter_id" : 4,
+        "products" : [
+            {
+                "product_id" : 23,
+                "product_name" : "Chudidhar",
+                "imgSrc" : "gadgets/womanswear/dress1.jpeg",
+                "price" : 1500
+            },
+            {
+                "product_id" : 24,
+                "product_name" : "Saree",
+                "imgSrc" : "gadgets/womanswear/dress2.jpeg",
+                "price" : 2000
+            },
+            {
+                "product_id" : 25,
+                "product_name" : "Pink Chudidhar",
+                "imgSrc" : "gadgets/womanswear/dress3.jpeg",
+                "price" : 2500
+            },
+            {
+                "product_id" : 26,
+                "product_name" : "Hoodie",
+                "imgSrc" : "gadgets/womanswear/dress4.jpeg",
+                "price" : 500
+            },
+            {
+                "product_id" : 27,
+                "product_name" : "Hijab",
+                "imgSrc" :"gadgets/womanswear/dress5.jpeg",
+                "price" : 800
+            },
+            {
+                "product_id" : 28,
+                "product_name" : "top",
+                "imgSrc" : "gadgets/womanswear/dress6.jpeg",
+                "price" : 550
+            }
+        ]
+    },
+    {
+        "filter_id" : 5,
+        "products" : [
+            {
+                "product_id" : 29,
+                "product_name" : "Acer",
+                "imgSrc" : "laptops/acer.jpg",
+                "price" : 42000
+            },
+            {
+                "product_id" : 30,
+                "product_name" : "Dell",
+                "imgSrc" : "laptops/dellnote.jpeg",
+                "price" : 50000
+            },
+            {
+                "product_id" : 31,
+                "product_name" : "Hp victus",
+                "imgSrc" : "laptops/hpvictus.jpeg",
+                "price" : 70000
+            },
+            {
+                "product_id" : 32,
+                "product_name" : "Dell Latitude",
+                "imgSrc" : "laptops/latitude.jpeg",
+                "price" : 60000
+            },
+            {
+                "product_id" : 27,
+                "product_name" : "Lenovo",
+                "imgSrc" :"laptops/lenovo.jpeg",
+                "price" : 35000
+            },
+            {
+                "product_id" : 28,
+                "product_name" : "Lenovo Think pad",
+                "imgSrc" : "laptops/thinkpad.jpeg",
+                "price" : 47000
+            }
+        ]
+    }
+    
+    
+
+]
